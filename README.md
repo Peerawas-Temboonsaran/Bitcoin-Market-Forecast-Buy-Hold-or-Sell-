@@ -77,6 +77,6 @@ This section could outline potential areas for future work, such as:
     * anansith2545@gmail.com
     * King Mongkut’s University of Technology Thonburi
 * Peerawas Temboonsaran
-    * zing36247@gmail.com
+    * peerawas.temb@gmail.com
     * King Mongkut’s University of Technology Thonburi
 
