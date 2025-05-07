@@ -24,7 +24,8 @@ The notebook includes the following sections:
     * **Random Forest Classifier**
     * **XGBoost Classifier**
     * **Long Short-Term Memory (LSTM) Neural Network**
-        The performance of each model is compared based on evaluation metrics.
+
+      The performance of each model is compared based on evaluation metrics.
 5.  **Model Training:** Code to train each of the selected models using the training data. The LSTM model involves specific data reshaping for sequential input.
 6.  **Model Evaluation:** Evaluation of the trained models on the testing data using *classification* metrics. The notebook calculates and prints metrics such as accuracy, precision, recall, F1-score, and also includes a confusion matrix to analyze the classification performance.
 7.  **Results and Visualization:**
